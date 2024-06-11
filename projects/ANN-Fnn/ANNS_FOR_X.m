@@ -55,7 +55,6 @@ for epoch = 1:500
             a3 = sigmoid(z3);
             
             % Calculate error
-            % ... (Code to calculate error can be added here)
         end
     end
 end
